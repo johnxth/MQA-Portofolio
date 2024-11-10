@@ -1,4 +1,3 @@
-# MQA-Portofolio
 # Manual Quality Assurance Tester Portfolio
 Name: Eksansilus, S.Pd
 Email: eksansilus@gmail.com
